@@ -1,2 +1,2 @@
 # Sprint-1 
-Acceptant Tests de los User Stories - Diseño y Patrones de Software
+Acceptance Tests de los User Stories - Diseño y Patrones de Software
