@@ -8,7 +8,7 @@ Feature: Seguridad en las búsquedas y comparaciones
 
 Criterio de aceptación #1
     Scenario: El usuario visualiza los terminos y condiciones
-    Given el usuario a ingresado a la página web
+    Given que el usuario a ingresado a la página web
     When el usuario inicie nuestro sistema se le mostrará el recuadro <Terminos y condiciones>
     Then se le pedirá que los lea y haga clic en aceptar o declinar.
 
