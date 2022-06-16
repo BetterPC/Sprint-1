@@ -11,4 +11,6 @@ Criterio de aceptación #1
     Then podrá escribir el dato que quiere aplicar el filtrado para encontrar los datos necesarios que requiera el usuario
 
 Examples:
-    |           Buscar....               |        DDR-SDRAM        |         Micro-ATX          |
+    |  Buscar...  |    Precio   |            Tienda              |
+    | T-force Rgb |   S/.450    |         SercoPlus              | 
+    | Micro-ATX   |   S/.549    |    Compu $ Visión Perú SAC     |
