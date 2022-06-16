@@ -13,4 +13,4 @@ Criterio de aceptación #1
 Examples:
     |  Buscar...  |    Precio   |            Tienda              |
     | T-force Rgb |   S/.450    |         SercoPlus              | 
-    | Micro-ATX   |   S/.549    |    Compu $ Visión Perú SAC     |
+    | Micro-ATX   |   S/.549    |    Compu $ Visión Perú S.A.C     |
